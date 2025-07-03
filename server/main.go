@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/yazmyrathudaynazarow/gRPC/api"
+	"github.com/tmbiz.info/yazmyrathudaynazarow/gRPC/api"
 	"google.golang.org/grpc"
 	"math/rand"
 	"net"

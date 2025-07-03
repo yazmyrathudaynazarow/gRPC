@@ -1,4 +1,4 @@
-module github.com/yazmyrathudaynazarow/gRPC
+module github.com/tmbiz.info/yazmyrathudaynazarow/gRPC
 
 go 1.24.4
 
