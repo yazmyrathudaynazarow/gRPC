@@ -3,10 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
+	"github.com/yazmyrathudaynazarow/gRPC/api"
 	"google.golang.org/grpc"
 	"io"
-
-	"weather/grpc-service/api"
 )
 
 func main() {
